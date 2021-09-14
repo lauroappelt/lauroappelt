@@ -6,3 +6,6 @@
 
 ----
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lauroappelt&show_icons=true)
+
+----
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
